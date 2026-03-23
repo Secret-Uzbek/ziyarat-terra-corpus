@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Ziyarat-Terra Corpus: Multilingual Lexicon of Uzbek Ziyarat Tourism Discourse"
+version: 1.0.0
+date-released: "2026-03-23"
+doi: 10.5281/zenodo.TODO
+url: "https://github.com/Secret-Uzbek/ziyarat-terra-corpus"
+repository-code: "https://github.com/Secret-Uzbek/ziyarat-terra-corpus"
+license: CC-BY-NC-SA-4.0
+abstract: >
+  First open corpus of Uzbek ziyarat (pilgrimage) tourism discourse.
+  Provides a PLT-annotated semantic lexicon of 26 core terms across 17 languages,
+  grounded in Fractal Metascience Paradigm (FMP) theory (NULLO, PLT, UCOMM, EUO).
+  Based on Uzbekistan inbound tourism statistics 2023, state documents 2019-2026,
+  and 480-respondent field research (Tillyabayeva G.B., 2023-2025).
+  Format-compatible with navoiy-terra-corpus/semantic_lexicon_v1.1_expanded.json.
+keywords:
+  - ziyarat
+  - pilgrimage
+  - uzbek
+  - corpus-linguistics
+  - lexicography
+  - plt
+  - fmp
+  - central-asia
+  - religious-tourism
+  - sacred-heritage
+  - multilingual
+  - women
+authors:
+  - family-names: "Tillyabayeva"
+    given-names: "Gulsum Bahadorovna"
+    affiliation: "National University of Uzbekistan, Department of Religious Studies"
+    email: "gulsum.tillyabayeva@gmail.com"
+  - family-names: "Abdukarimov"
+    given-names: "Abdurashid Abdukahhorovich"
+    affiliation: "Independent Researcher; Fractal Metascience Paradigm"
+    orcid: "https://orcid.org/0009-0000-6394-4912"
+references:
+  - type: article
+    title: "Ўзбек тилида зиёрат туризми терминологиясини унификациялаш муаммолари"
+    authors:
+      - family-names: "Tillyabayeva"
+        given-names: "Gulsum"
+      - family-names: "Abdukarimov"
+        given-names: "Abdurashid"
+    year: 2026
+  - type: dataset
+    title: "Navoiy-Terra Corpus: Computational PLT analysis of Alisher Navoi's Lisonut-tayr"
+    url: "https://github.com/Secret-Uzbek/navoiy-terra-corpus"
+  - type: dataset
+    title: "Women Made Central Asia Corpus"
+    url: "https://github.com/Secret-Uzbek/women-made-central-asia-corpus"
+  - type: software
+    title: "Fractal Metascience Paradigm — Central Repository"
+    url: "https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO"
