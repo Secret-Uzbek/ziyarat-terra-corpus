@@ -35,7 +35,7 @@ jobs:
               data = json.load(f)
           terms = len(data['terms'])
           langs = data['metadata']['language_count']
-          print(f'✓ Lexicon valid: {terms} terms × {langs} languages')
+          print(f'вњ“ Lexicon valid: {terms} terms Г— {langs} languages')
           "
 
       - name: Upload artifact
