@@ -1,10 +1,13 @@
-[![Terra Legal](https://img.shields.io/badge/license-TPL--1.0-7c6aff)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
-[![Child Safety First](https://img.shields.io/badge/child_safety-first-00d4aa)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal/blob/main/CODE_OF_CONDUCT.md)
-
 # 🕌 ZIYARAT TERRA CORPUS
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
+[![Layer](https://img.shields.io/badge/Layer-Human%20Research%20Branch-b45309)](https://github.com/Secret-Uzbek/ziyarat-terra-corpus)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
+[![Release](https://img.shields.io/github/v/release/Secret-Uzbek/ziyarat-terra-corpus?display_name=tag)](https://github.com/Secret-Uzbek/ziyarat-terra-corpus/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/Secret-Uzbek/ziyarat-terra-corpus)](https://github.com/Secret-Uzbek/ziyarat-terra-corpus/commits/main)
+[![Release Pipeline](https://github.com/Secret-Uzbek/ziyarat-terra-corpus/actions/workflows/release-and-publish.yml/badge.svg)](https://github.com/Secret-Uzbek/ziyarat-terra-corpus/actions/workflows/release-and-publish.yml)
+[![Zenodo Sync](https://github.com/Secret-Uzbek/ziyarat-terra-corpus/actions/workflows/zenodo-release.yml/badge.svg)](https://github.com/Secret-Uzbek/ziyarat-terra-corpus/actions/workflows/zenodo-release.yml)
+[![Terra Audit](https://github.com/Secret-Uzbek/ziyarat-terra-corpus/actions/workflows/terra-audit.yml/badge.svg)](https://github.com/Secret-Uzbek/ziyarat-terra-corpus/actions/workflows/terra-audit.yml)
+[![Terra Legal](https://img.shields.io/badge/legal-terra--legal-7c6aff)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![FMP](https://img.shields.io/badge/Framework-FMP%20%7C%20PLT%20%7C%20NULLO-blue)](https://fractal-metascience.org)
 [![Languages](https://img.shields.io/badge/Languages-17-orange)](./glossary/)
@@ -14,7 +17,7 @@
 
 ---
 
-## Что это / What is this
+## Layer role
 
 **Ziyarat-Terra Corpus** — первый открытый тематический корпус лексики зиёрат-туризма узбекского языка, созданный в рамках Fractal Metascience Paradigm (FMP) как часть экосистемы корпусных исследований:
 
@@ -26,6 +29,22 @@ ziyarat-terra-corpus    → Зиёрат дискурс (2019–2026)  ← ВЫ 
 ```
 
 Корпус обеспечивает **терминологическую базу** для диссертации Тиллябаевой Г.Б. (НУУ, 070004 Диншунослик) и цикла академических публикаций по корпусной лексикографии зиёрат-туризма.
+
+This repository is a human-facing corpus branch.
+
+It should hold:
+
+- corpus and lexicon materials;
+- branch-specific publications and field evidence;
+- readable comparative and methodological explanations;
+- release, citation, and audit surfaces for this branch.
+
+It should not become:
+
+- a fake DOI placeholder shell;
+- a donor governance repository;
+- a machine-first surface;
+- an undifferentiated mix of archive residue and branch work.
 
 ---
 

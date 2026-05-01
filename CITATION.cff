@@ -1,10 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+message: "If you use or quote this human-facing corpus branch, please cite it as below."
 type: dataset
 title: "Ziyarat-Terra Corpus: Multilingual Lexicon of Uzbek Ziyarat Tourism Discourse"
 version: 1.0.0
 date-released: "2026-03-23"
-doi: 10.5281/zenodo.TODO
 url: "https://github.com/Secret-Uzbek/ziyarat-terra-corpus"
 repository-code: "https://github.com/Secret-Uzbek/ziyarat-terra-corpus"
 license: CC-BY-NC-SA-4.0
